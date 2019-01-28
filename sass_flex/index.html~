@@ -1,0 +1,71 @@
+<html>
+  <head>
+<meta name ="viewport" content = "width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+
+</head>
+    <body>
+  <div class = "sidenav">
+  <i class="fas fa-home"></i>
+  <i class="fas fa-camera-retro"></i>
+<i class="fas fa-file-alt"></i>
+</div>
+  <div class="home">
+      <h1>Hey,I am SMRITI RASTOGI</h1>
+       </div>
+    <div class="home_matter"> 
+        <center><p>Software Engineer, QA Infotech</p><br>
+      <button>Continue</button></center>
+    </div><br><br><br>
+  <div class = "gallery"> 
+  <h1>What's New</h1>
+    </div>
+  <div class = gallery_img>
+    <a href = "gallery"><img src = "https://i.pinimg.com/originals/33/57/02/335702797080f06fb61a4052fd169443.jpg" ></a>
+    <a href = "gallery"><img src = "https://templated.co/items/demos/snapshot/images/thumbs/03.jpg" ></a>
+    <a href = "gallery"><img src = "https://templated.co/items/demos/snapshot/images/thumbs/10.jpg" ></a>
+    <a href = "gallery"><img src = "https://templated.co/items/demos/snapshot/images/thumbs/05.jpg" ></a>
+    <a href = "gallery"><img src = "https://templated.co/items/demos/snapshot/images/thumbs/06.jpg" ></a>
+    <a href = "gallery"><img src = "https://templated.co/items/demos/snapshot/images/thumbs/07.jpg" ></a>
+    <a href = "gallery"><img src = "https://templated.co/items/demos/snapshot/images/thumbs/09.jpg" ></a>
+    <a href = "gallery"><img src = "https://templated.co/items/demos/snapshot/images/thumbs/02.jpg" ></a>
+    
+     </div>
+          <div class = "about">
+        <div class = "about_matter">
+          <h2>About Me</h2>
+  <p>Mus sed interdum nunc dictum rutrum scelerisque erat a parturient condimentum potenti dapibus vestibulum condimentum per tristique porta. Torquent a ut consectetur a vel ullamcorper a commodo a mattis ipsum class quam sed eros vestibulum quisque a eu nulla scelerisque a elementum vestibulum.<br>
+
+Aliquet dolor ultricies sem rhoncus dolor ullamcorper pharetra dis condimentum ullamcorper rutrum vehicula id nisi vel aptent orci litora hendrerit penatibus erat ad sit. In a semper velit eleifend a viverra adipiscing a phasellus urna praesent parturient integer ultrices montes parturient suscipit posuere quis aenean. Parturient euismod ultricies commodo arcu elementum suspendisse id dictumst at ut vestibulum conubia quisque a himenaeos dictum proin dis purus integer mollis parturient eros scelerisque dis libero parturient magnis.</p>
+          <h3>Follow Me</h3>
+          <a = href = "https://twitter.com/"> <img src = "https://vignette.wikia.nocookie.net/warhammer40k/images/9/96/Vector-twitter-icon-195.jpg/revision/latest?cb=20170315093855" alt = "twitter"></a>
+         <i class="fab fa-facebook-f"></i>
+          <a href = "https://www.instagram.com/"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0LhSySCHA2CWLeVql_PosBFxtPjB6afL88iIvYmg8tK-5WsYh" alt = "insta"></a>
+        </div>
+        <div class = "about_form">
+          <h2>Get in Touch</h2>
+        <form>
+				<label>Name</label>
+			<input type="text" placeholder="Name">
+		
+		<label >Email</label>
+	<input  type="email" placeholder="Email"><br><br>
+	<label>Message</label><br><br>
+	<textarea name="message" rows="6" placeholder="Message"></textarea><br><br>
+<button>Send Message</button>        
+					</form>
+        </div>
+        </div>
+        <footer>
+  <div class = "footer">
+   <center>
+    <p>Posted by: Smriti Rastogi<br>
+    Contact information: <i>smritirastogi@qainfotech.com</i></a></p>
+   </center>
+  </div>
+ </footer>
+  </section>
+  
+  </body>
+  </html>

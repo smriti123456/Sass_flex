@@ -1,0 +1,110 @@
+$spacer : 2.1875 rem;
+body
+{
+ background-image:url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/11/26/5356376b0b393f6.jpg");
+    background-attachment:fixed;
+  background-size:cover;
+}
+button{
+  cursor: pointer;
+  background-color: transparent;
+  margin-top: 2 rem ;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.sidenav{
+  display:flex;
+  align-items: center;
+  flex-direction:column;
+  height: 100%;
+  width: 3.5rem;
+  position: fixed;
+  top: 0;
+   padding-right: 1rem;
+  left: 0;
+  background-color: black;
+  padding-top: 2.25rem;
+
+}
+i{
+color: blue;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  
+}
+
+.home{
+  
+  font-size:200%;
+  
+  display:flex;
+  justify-content:center;
+  color:Black;
+}
+  .home_matter{
+    
+  font-size:200%;
+   display:flex;
+    flex-direction:column;
+  justify-content:center;
+    justify-content:space-around;
+  color:black;
+  }
+
+.gallery
+{ 
+    display:flex;
+    justify-content:center;
+    background-color: white;
+  
+}
+.gallery_img
+{
+  display:flex;
+    justify-content:center;
+  flex-wrap:wrap;
+ background-color: white;
+
+    padding-top: 2rem;
+    padding-left: 5rem;
+}
+  .gallery_img img{
+    width: 20rem;
+    height: 20rem;
+  }
+.about{
+  display:flex;
+  padding-left:6rem;
+  padding-top: 2rem;
+  background-color: Gainsboro;
+  align-items: flex-start;
+  justify-content: flex;
+  &_matter
+  {
+    background-color: light;
+    width:100%;
+  }
+  &_matter img{
+    height:1.2rem;
+    width:1.2rem;
+  }
+  &_form
+  {
+    background-color: gray;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    width:100%;
+  }
+  &_form button
+  {
+   
+  color:blue;
+    margin-top:2 rem;
+  font-size :1.5 rem;
+  border-radius:1rem;
+
+  }
+}
+  .footer p{
+  color: red ;
+  }

@@ -1,16 +1,20 @@
-# Flex_SASS_Assignment
-- Dividing screen into two divs   
-- Fix navbar on left div  
-- Working on right div for rest of the page design   
-...Dividing right into thre horizontal divs
-First div   
-Fix header  
-Gallery view button -Second Div -Display Gallery Image  
-Third Div   
-About section    
-Form section  
-Fix **footer**  
-# Using Flex  
-For css part   
-Aligning Content   
-Justify div  
+# FLEX_SASS_Assignment
+- Dividing screen into two divs 
+ - Fix navbar on left div  
+ - Working on right div for rest of the page design   
+    - Dividing right into three horizontal divs  
+    - First div   
+      -  fix header
+      - continue button  
+   - Second Div  
+        - heading  
+        - Gallery images  
+        - Gallery view button  
+    - Third Div is divided into two vertical divs  
+      - About section 
+      - Form section  
+  - Fix footer  
+# Using Flex 
+  - styling using css 
+  - Aligning Content  
+  - Justify div
